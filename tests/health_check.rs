@@ -1,3 +1,5 @@
+//! tests/health_check.rs
+// [...]
 use std::net::TcpListener;
 use zero2prod::run;
 
