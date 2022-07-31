@@ -2177,6 +2177,7 @@ dependencies = [
  "chrono",
  "config",
  "reqwest",
+ "serde",
  "serde-aux",
  "sqlx",
  "tokio",
